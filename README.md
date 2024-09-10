@@ -29,6 +29,6 @@ The developers reserve the right to modify these terms at any time. Your continu
 
 ## 7. Contact Information
 
-If you have any questions about these terms, please contact us at yourname@example.com.
+If you have any questions about these terms, please contact us at csy230129@gmail.com.
 
 Thank you for using the Blender Drive Upload Addon!
